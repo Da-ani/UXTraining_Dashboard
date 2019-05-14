@@ -1,3 +1,17 @@
+#OBJETIVO DEL PROYECTO
+
+El objetivo de este proyecto es diseñar un dashboard de administración de negocios para un freelance, de manera que pueda tener a la mano, los datos más importantes para el y su negocio, todo esto altamente centrado en el usuario elegido, con el fin de que el resultado final, que es el diseño de alta fidelidad, sea centrado totalmente en sus necesidades.
+
+Un freelancer invierte su tiempo de acuerdo a sus necesidades y la de sus clientes. En muchos casos no cumplen horarios rutinarios o de oficina, tienen la autonomía de modificar su agenda de acuerdo a la carga de trabajo que posean y en la mayoría de los casos ofrecen sus servicios por medio de contratos, especificando el tiempo que trabajarán para el empleador y bajo qué condiciones.
+A menudo tienen que lidiar con contratos, asuntos legales, contabilidad, mercadeo, y otras funciones de negocios ellos mismos.
+
+
+
+
+
+
+
+
 # UI Challenge Dashboard
 Diseña un dashboard de administración de negocios para un freelance.
 De que manera podemos controlar, medir y rastear lo que sucede en el negocio de un freelance.
