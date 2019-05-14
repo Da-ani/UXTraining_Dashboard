@@ -89,7 +89,29 @@ Ver mis ganancias por semana o por mes, ver sus proyectos el avance de cada uno 
 
 AUDIOS
 
+USUARIO 
+Rubén es un hombre de 38 años, que lleva 6 años dedicándose al freelance después de estar cansado de dedicar su tiempo a un trabajo que no le daba lo suficiente para sus gastos y donde trabajaba horas extras sin remuneraciòn.
+Rubén se levanta regularmente a las 7 de la mañana, se levanta primero a bañarse, después a desayunar y por consiguiente empieza como a las 9 de la mañana a trabajar en la computadora si es que no hay algo extra que hacer como imprimir, cortar, ver a algún cliente  temprano, varía mucho, ya que sus pedidos son dentro y fuera del estado. No tiene horarios tan estables.
+Lo primero que hace, en caso de no tener algo extra es sentarse en la computadora y abrir los correos ya que por ahí lo contactan sus clientes y los proveedores. Revisa las redes sociales del negocio para ver si no se escapó alguna información, de ahì comienza a trabajar en los diseños que le piden y todo lo que conlleva.
 
+IMAGEN
+
+Necesidades:
+
+Necesita ver sus ganancias por semana y por mes
+Necesita visualizar sus pedidos semanales y mensuales
+Necesita ver en qué estados de la República vende más
+Necesita ver que productos se venden más
+Necesita una sección donde estèn sus clientes y los pueda buscar por RFC
+Necesita una sección con sus proveedores
+ 
+ IMAGEN
+ 
+ 
+ PROPUESTA DE DISEÑO
+ 
+ https://www.figma.com/proto/CROH4ZP6YZg26NRzZnjJMmwT/dashboard-component-francis-otuogbai?node-id=101%3A0&scaling=scale-down-width
+ 
 
 
 
@@ -114,29 +136,7 @@ KPI's
 Presentación ejecutiva.
 Recuerda hacer énfasis en los elementos que te llevaron a tomar decisiones de diseño, funcionalidad y lo que propone valor a tu propuesta.
 
-USUARIO 
-Rubén es un hombre de 38 años, que lleva 6 años dedicándose al freelance después de estar cansado de dedicar su tiempo a un trabajo que no le daba lo suficiente para sus gastos y donde trabajaba horas extras sin remuneraciòn.
-Rubén se levanta regularmente a las 7 de la mañana, se levanta primero a bañarse, después a desayunar y por consiguiente empieza como a las 9 de la mañana a trabajar en la computadora si es que no hay algo extra que hacer como imprimir, cortar, ver a algún cliente  temprano, varía mucho, ya que sus pedidos son dentro y fuera del estado. No tiene horarios tan estables.
-Lo primero que hace, en caso de no tener algo extra es sentarse en la computadora y abrir los correos ya que por ahí lo contactan sus clientes y los proveedores. Revisa las redes sociales del negocio para ver si no se escapó alguna información, de ahì comienza a trabajar en los diseños que le piden y todo lo que conlleva.
 
-IMAGEN
-
-Necesidades:
-
-Necesita ver sus ganancias por semana y por mes
-Necesita visualizar sus pedidos semanales y mensuales
-Necesita ver en qué estados de la República vende más
-Necesita ver que productos se venden más
-Necesita una sección donde estèn sus clientes y los pueda buscar por RFC
-Necesita una sección con sus proveedores
- 
- IMAGEN
- 
- 
- PROPUESTA DE DISEÑO
- 
- https://www.figma.com/proto/CROH4ZP6YZg26NRzZnjJMmwT/dashboard-component-francis-otuogbai?node-id=101%3A0&scaling=scale-down-width
- 
 
 
 
